@@ -1,1 +1,4 @@
+“.hdf5” filter=lfs diff=lfs merge=lfs -text
+“.txt” filter=lfs diff=lfs merge=lfs -text
+“.py” filter=lfs diff=lfs merge=lfs -text
 best.hdf5 filter=lfs diff=lfs merge=lfs -text
